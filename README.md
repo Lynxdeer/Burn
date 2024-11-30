@@ -1,4 +1,4 @@
-# Play Online [HERE!](https://lynxdeer.github.io/burn)
+# Play Online [HERE!](https://lynxdeer.github.io/Burn)
 <i>All ya need to play a mouse pointer! Should be compatible with your finger, too, if you're on your phone.</i>
 
 <br>
