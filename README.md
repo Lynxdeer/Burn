@@ -12,3 +12,6 @@ Small web game about <strong>BURNING</strong> things made using entirely html ca
 I did convert the image to pixels using a python script, though, cause I don't wanna bother figuring out how to do it in javascript.
 
 Maybe I'll change it to use WebGL sometime later! For now, though, enjoy your french fries!
+
+## Attribution
+Images & Fire SFX from Pixabay
